@@ -1,0 +1,16 @@
+nav h2{
+    font-family: courgette;
+}
+
+.background-cuizine{
+
+    height: 500px;
+    background-image: url(../img/header.jpg);
+    background-position: center;
+
+}
+
+h1, h2{
+    color: white;
+    
+}

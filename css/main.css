@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Oswald:wght@200&display=swap');
+
+/* 
+font-family: 'Oswald', sans-serif; */
+
+h1, h2, h3, h4, h5, h6 {
+
+    font-family:'Courgette', cursive; 
+    
+
+}
+
+
+header{
+   
+    height: 450px;
+    background-color: rgb(0 0 0 / 71%);
+    
+}
+
+
+header img{
+  height:  60px;
+    
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
