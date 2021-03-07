@@ -2,15 +2,51 @@ nav h2{
     font-family: courgette;
 }
 
+nav{
+    border-bottom: 1px solid grey;
+    background-color: rgb(0 0 0 / 71%); 
+}
+
 .background-cuizine{
 
-    height: 500px;
+    /* height: 500px; */
     background-image: url(../img/header.jpg);
     background-position: center;
+    
 
 }
 
 h1, h2{
     color: white;
     
+}
+
+.section-article > h2{
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+}
+
+.section-article a {
+    color: #000;
+    text-decoration: none;
+
+}
+
+.display-6{
+    color: black;
+}
+
+footer a{
+    color: #fff;
+    
+}
+
+footer ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+footer i.bi{
+    padding: 5px;
 }
